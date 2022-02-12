@@ -1,3 +1,9 @@
+# Steps to run
+- Clone the repo
+- Do npm install
+- after successfull npm install, do npm start after navigating inside the folder
+
+
 # react-assignment
 Achieved functionality : 
 - All winning scenarios covered
